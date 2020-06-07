@@ -1,0 +1,21 @@
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\bin\Debug\exel.exe.config
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\bin\Debug\exel.exe
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\bin\Debug\exel.pdb
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.csprojAssemblyReference.cache
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.csproj.ResolveComReference.cache
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.Form1.resources
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.Properties.Resources.resources
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.csproj.GenerateResource.cache
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.exe
+C:\Users\joaba\Desktop\6 SEMESTRE\Homero (Nocturno)\exel\exel\obj\Debug\exel.pdb
+C:\Users\Toled\Desktop\exel\exel\bin\Debug\exel.exe.config
+C:\Users\Toled\Desktop\exel\exel\bin\Debug\exel.exe
+C:\Users\Toled\Desktop\exel\exel\bin\Debug\exel.pdb
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.csprojAssemblyReference.cache
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.csproj.ResolveComReference.cache
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.Form1.resources
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.Properties.Resources.resources
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.csproj.GenerateResource.cache
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.csproj.CoreCompileInputs.cache
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.exe
+C:\Users\Toled\Desktop\exel\exel\obj\Debug\exel.pdb
